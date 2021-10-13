@@ -30,7 +30,7 @@ submitBtn.addEventListener('click',() => {
         alert('Please Enter The code') ;
     }
     else if(val === code.textContent) {
-        window.open('https://cdn.discordapp.com/attachments/812767934744363019/889015963649986580/Tasks_79.3.zip','_self');
+        window.open('https://cdn.discordapp.com/attachments/879991566725439488/897784788956639232/Tasks_7.7.zip','_self');
     }
     else {
         alert('invalid input !') ;
